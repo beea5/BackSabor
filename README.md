@@ -43,16 +43,18 @@ DATABASE_URL="mongodb+srv://<USUARIO>:<SENHA>@cluster0.mongodb.net/<NOME_DO_BANC
 Se o projeto utilizar migrações para o banco de dados, execute o seguinte comando para rodar as migrações:
 
 bash
+```
 npx prisma migrate deploy
-
+```
 
 ## 6. Rodando o Projeto
 
 Para rodar o servidor localmente, use o comando:
 
-bash
-npm run dev
+```bash
 
+npm run dev
+```
 
 ## Vídeo de Referência
 
