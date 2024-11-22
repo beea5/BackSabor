@@ -1,7 +1,5 @@
 # Backend do Projeto SaborBr
 
-![Imagem de referência]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cortex-intelligence.com%2Fblog%2Finteligencia-de-mercado%2Fbanco-de-dados-tecnologia&psig=AOvVaw1tqYT4FECW7tTcehzejamz&ust=1732326422508000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNi1qYHp7okDFQAAAAAdAAAAABAE](https://unsplash.com/pt-br/fotografias/um-computador-portatil-sentado-em-cima-de-uma-mesa-de-madeira-VgN_G9M1zXA))
-
 Este repositório contém o backend do projeto **SaborBr**. Para rodar este backend localmente, siga as instruções abaixo.
 
 ## Dependências
