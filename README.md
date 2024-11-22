@@ -14,9 +14,9 @@ Certifique-se de ter o [Node.js](https://nodejs.org/) e o [TypeScript](https://w
 
 Este projeto utiliza o Prisma como ORM para interagir com o banco de dados. Execute o seguinte comando para instalar as dependências do Prisma:
 
-bash
+```bash
 npm install @prisma/client
-
+```
 ## Configuração do Banco de Dados
 
 O projeto utiliza o MongoDB como banco de dados. Para configurar o banco de dados, siga as etapas abaixo:
@@ -42,8 +42,8 @@ DATABASE_URL="mongodb+srv://<USUARIO>:<SENHA>@cluster0.mongodb.net/<NOME_DO_BANC
 
 Se o projeto utilizar migrações para o banco de dados, execute o seguinte comando para rodar as migrações:
 
-bash
-```
+```bash
+
 npx prisma migrate deploy
 ```
 
