@@ -34,8 +34,9 @@ Após criar o cluster e o usuário no MongoDB Atlas, copie a URL de conexão for
 
 No arquivo .env do projeto, substitua a URL de conexão do MongoDB pela sua URL de conexão personalizada. A linha no arquivo .env deve se parecer com:
 
-env
+````env
 DATABASE_URL="mongodb+srv://<USUARIO>:<SENHA>@cluster0.mongodb.net/<NOME_DO_BANCO>?retryWrites=true&w=majority"
+`````
 
 ### 5. Rodar as Migrações (se necessário)
 
